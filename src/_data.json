@@ -81,6 +81,8 @@
 		"repoUrlFilepathJs2java":"/ot4i.tutorials/dist/js/js2java.js",
 		"repoUrlFilepathJs2javaSteps":"/ot4i.tutorials/dist/js/js2java_steps.js",
 		"repoUrlFilepathActionIcon":"/ot4i.tutorials/dist/images/icons/ibmdesign/back-right-previous_128-orange.png",
-		"repoUrlFilepathExitIcon":"/ot4i.tutorials/dist/images/icons/ibmdesign/close-cancel-error_128-red.png"
+		"repoUrlFilepathExitIcon":"/ot4i.tutorials/dist/images/icons/ibmdesign/close-cancel-error_128-red.png",
+        "repoUrlFilepathClockIcon":"/ot4i.tutorials/dist/images/icons/ibmdesign/clock-time_128.png"
+		
 	}
 } 
